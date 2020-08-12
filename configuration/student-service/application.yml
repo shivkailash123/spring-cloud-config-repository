@@ -1,0 +1,5 @@
+config:
+  server:
+    student-key: Hello, from Config Server
+    
+
